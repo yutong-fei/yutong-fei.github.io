@@ -1,7 +1,7 @@
 ---
 title: 'Computational Skills Resources'
 date: 2024-01-18
-permalink: /posts/2024/computational-resources
+permalink: /posts/2024/01/blog-post-1/
 tags:
   - Data Sciences
   - Machine Learning
