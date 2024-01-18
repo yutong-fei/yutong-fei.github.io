@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Outils de gestion bibliographique"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master Course"
+permalink: /teaching/2023-fall-teaching-2
+venue: "Université Claude Bernard Lyon 1, Département-composante Informatique"
+date: 2023-10-01
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+zotero
 
 Heading 1
 ======
